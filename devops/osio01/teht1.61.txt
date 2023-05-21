@@ -1,0 +1,8 @@
+Secret message on joko:
+
+exit
+close
+quit
+'tyhjä syöte'
+help
+basics
