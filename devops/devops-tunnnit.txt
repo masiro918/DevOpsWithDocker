@@ -6,3 +6,4 @@ tuntikirjanpito - DevOps-kurssi
 0.58
 0.5
 0.5
+0.5
