@@ -2,8 +2,11 @@ tuntikirjanpito - DevOps-kurssi
 
 1
 0.5
-0.3333
-0.58
+0.3333 (20min)
 0.5
 0.5
 0.5
+0.5
+5
+========================
+pyöristettynä yhteensä 9h
